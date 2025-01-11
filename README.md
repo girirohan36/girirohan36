@@ -2,7 +2,7 @@
 
 # Hey there! I'm Rohan 👋
 
-🔗 [LinkedIn](https://www.linkedin.com/in/girirohan36/) | 📧 [Email](mailto:girirohan36@gmail.com) | 🌐 Website:- [rohangiri.com](https://www.rohangiri.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/girirohan36/) | 📧 [Email](mailto:girirohan36@gmail.com) | 🌐 Portfolio : [rohangiri.com](https://www.rohangiri.com)
 
 I'm a data-driven professional, blending technical expertise with business acumen. After 3.5 years of experience as a Business Analyst at Accenture, I’m now delving deeper into the world of data science and machine learning with my Master’s in Business Analytics from the McCombs School of Business at University of Texas at Austin.
 
@@ -38,3 +38,11 @@ Solving complex business problems with data, automating processes to improve eff
 - **Data Engineering:** Apache Spark, Hadoop, Azure Data Factory, Apache Cassandra, SQL Server, PostgreSQL, MySQL, MongoDB
 - **Model Deployment & Cloud Services:** AWS (Elastic Beanstalk), Azure
 -  **Optimization Techniques:** Gurobi, Linear Programming, Mixed Integer Programming
+
+
+🔗 **Stock Portfolio Recommender**  
+**Problem:** Optimizing a stock portfolio to minimize risk and maximize returns.  
+**Solution:** Used mixed integer programming to create an optimal portfolio by minimizing mean absolute error based on historical data.  
+**Technologies Used:** Python, Pyomo, pandas, NumPy  
+[GitHub Repository](https://github.com/username/stock-portfolio-recommender)
+
