@@ -21,10 +21,18 @@ I’m diving into the intersection of data analysis, advanced machine learning, 
 - **ML & Predictive Analytics:** Classification , Time Series Forecasting , NLP , A/B Testing
 
 ### Projects :
-🔗 **YouTube-Ad-Placement-Analytics-AWS** – Streamlined project launch tracking to improve supply chain efficiency using Alteryx, SQL, and Power BI. | [Repo](https://github.com/girirohan36/supply-chain-optimization)
-🔗 **Supply Chain Optimization Tool** – Streamlined project launch tracking to improve supply chain efficiency using Alteryx, SQL, and Power BI. | [Repo](https://github.com/girirohan36/supply-chain-optimization)
-🔗 **Luxury Car Consumer Perception Analysis** – Streamlined project launch tracking to improve supply chain efficiency using Alteryx, SQL, and Power BI. | [Repo](https://github.com/girirohan36/supply-chain-optimization)
-🔗 **Decoding the beat** – Enhancing music streaming experiences through genre classification using ML and Deep Learning | [Repo](https://github.com/girirohan36/Decoding_the_beat)
-🔗 **Supply Chain Optimization Tool** – Streamlined project launch tracking to improve supply chain efficiency using Alteryx, SQL, and Power BI. | [Repo](https://github.com/girirohan36/supply-chain-optimization)
+🔗 **YouTube Ad Placement Analytics AWS** – End to End cloud-based platform for optimizing YouTube ad placements using AWS | [Repo](https://github.com/girirohan36/YouTube-Ad-Placement-Analytics-AWS)
+
+🔗 **A Machine Vision Enabled Tactical Scope** –A novel, lightweight machine-vision tactical scope employing real-time deep-learning segmentation, IoT sensor fusion, and integrated target masking for unprecedented accuracy [Patent](https://www.quickcompany.in/patents/a-machine-vision-enabled-tactical-scope#) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7092728995590385664/)
+
+🔗 **Luxury Car Consumer Perception Analysis** – Analyzed consumer conversations from Edmunds forums to gain insights into the entry-level luxury car market | [Code](https://github.com/girirohan36/Luxury-Car-Consumer-Perception-Analysis) | [Medium](https://medium.com/@girirohan36/luxury-car-consumer-sentiment-analysis-f2e20976b4f0)
+
+🔗 **ARES - Advanced Robot for Extraction and Survey** – ARES Utilizes EfficientPS for panoptic segmentation, providing object detection in hazardous disaster zones.Its tank-inspired design, remote navigation, and fast data processing enable efficient, safe search and rescue operations in inaccessible areas [IEEE Research Paper](https://ieeexplore.ieee.org/document/9633900)
+
+🔗 **Maersk Supply Chain Optimization** – Analyzed and optimized Maersk's supply chain operations through data-driven insights and interactive dashboards using PowerBI | [Code](https://github.com/girirohan36/supply-chain-optimization) 
+
+🔗 **Decoding the beat** – Enhancing music streaming experiences through genre classification using ML and Deep Learning | [Code](https://github.com/girirohan36/Decoding_the_beat) | [Medium](https://medium.com/@ksimmonds92/decoding-the-beat-predicting-music-genres-with-audio-features-6ec2ee9dae52)
+
+🔗 **Forecasting Houston Dynamo FC Game Attendance** – Using Supply Chain Analytics to Forecast Attendance by forecasting models like ARIMA , ETS and Naive Forecasting  | [Code](https://github.com/girirohan36/ForecastingFC_Attendance) | [Medium](https://medium.com/@girirohan36/forecasting-houston-dynamo-fc-game-attendance-7554f3793960)
 
 
