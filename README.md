@@ -15,7 +15,7 @@ I’m diving into the intersection of data analysis, advanced machine learning, 
 - **Languages:** Python, R, SQL
 - **Data:** Power BI, Tableau, MySQL, Apache Spark, GitHub
 - **Tools & Software:** Advanced Excel, SAP HANA, Snowflake , Gurobi
-- **ML & Predictive Analytics:** Classification , Time Series Forecasting , NLP , A/B Testing
+- **ML & Predictive Analytics:** Segmentation , Classification , Time Series Forecasting , NLP , A/B Testing
 
 ### Projects :
 🔗 **YouTube Ad Placement Analytics AWS** – End to End cloud-based platform for optimizing YouTube ad placements using AWS | [Repo](https://github.com/girirohan36/YouTube-Ad-Placement-Analytics-AWS)
