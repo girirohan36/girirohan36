@@ -21,7 +21,10 @@ I’m diving into the intersection of data analysis, advanced machine learning, 
 - **ML & Predictive Analytics:** Classification , Time Series Forecasting , NLP , A/B Testing
 
 ### Projects :
-🔗 **Supply Chain Optimization Tool** – Streamlined project launch tracking to improve supply chain efficiency using Alteryx, SQL, and Power BI.  
-[Repo](https://github.com/girirohan36/supply-chain-optimization)
+🔗 **YouTube-Ad-Placement-Analytics-AWS** – Streamlined project launch tracking to improve supply chain efficiency using Alteryx, SQL, and Power BI. | [Repo](https://github.com/girirohan36/supply-chain-optimization)
+🔗 **Supply Chain Optimization Tool** – Streamlined project launch tracking to improve supply chain efficiency using Alteryx, SQL, and Power BI. | [Repo](https://github.com/girirohan36/supply-chain-optimization)
+🔗 **Luxury Car Consumer Perception Analysis** – Streamlined project launch tracking to improve supply chain efficiency using Alteryx, SQL, and Power BI. | [Repo](https://github.com/girirohan36/supply-chain-optimization)
+🔗 **Decoding the beat** – Enhancing music streaming experiences through genre classification using ML and Deep Learning | [Repo](https://github.com/girirohan36/Decoding_the_beat)
+🔗 **Supply Chain Optimization Tool** – Streamlined project launch tracking to improve supply chain efficiency using Alteryx, SQL, and Power BI. | [Repo](https://github.com/girirohan36/supply-chain-optimization)
 
 
