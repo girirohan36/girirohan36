@@ -32,4 +32,6 @@ I’m diving into the intersection of data analysis, advanced machine learning, 
 
 🔗 **Forecasting Houston Dynamo FC Game Attendance** – Using Supply Chain Analytics to Forecast Attendance by forecasting models like ARIMA , ETS and Naive Forecasting  | [Code](https://github.com/girirohan36/ForecastingFC_Attendance) | [Medium](https://medium.com/@girirohan36/forecasting-houston-dynamo-fc-game-attendance-7554f3793960)
 
+🔗 **ResumeFit: AI-Powered Job Fit Analysis** – Streamlit-based web application that leverages Google's Gemini AI to assist in resume analysis  | [Code](https://github.com/girirohan36/ResumeFit)
+
 
