@@ -17,6 +17,10 @@ I’m diving into the intersection of data analysis, advanced machine learning, 
 - **Tools & Software:** Advanced Excel, SAP HANA, Snowflake, Gurobi
 - **ML & Predictive Analytics:** Segmentation, Classification , Time Series Forecasting , NLP , A/B Testing , RAG, LLM
 
+###  🏆Patent : [**A Machine Vision Enabled Tactical Scope**](https://www.quickcompany.in/patents/a-machine-vision-enabled-tactical-scope#) 
+
+###  📝Resume : [**View**](https://drive.google.com/file/d/1lSxUjIbm74mm_lFNBvByk7lgTDjiv7ZF/view?usp=sharing)
+
 ### Projects :
 🔗 **YouTube Ad Placement Analytics AWS** – End to End cloud-based platform for optimizing YouTube ad placements using AWS | [Repo](https://github.com/girirohan36/YouTube-Ad-Placement-Analytics-AWS)
 
