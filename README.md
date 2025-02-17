@@ -30,16 +30,6 @@ I’m diving into the intersection of data analysis, advanced machine learning, 
 
 🔗 **ARES - Advanced Robot for Extraction and Survey** – ARES Utilizes EfficientPS for panoptic segmentation, providing object detection in hazardous disaster zones.Its tank-inspired design, remote navigation, and fast data processing enable efficient, safe search and rescue operations in inaccessible areas [IEEE Research Paper](https://ieeexplore.ieee.org/document/9633900)
 
-🔗 **Maersk Supply Chain Optimization** – Analyzed and optimized Maersk's supply chain operations through data-driven insights and interactive dashboards using PowerBI | [Code](https://github.com/girirohan36/supply-chain-optimization) 
-
-🔗 **Decoding the beat** – Enhancing music streaming experiences through genre classification using ML and Deep Learning | [Code](https://github.com/girirohan36/Decoding_the_beat) | [Medium](https://medium.com/@ksimmonds92/decoding-the-beat-predicting-music-genres-with-audio-features-6ec2ee9dae52)
-
-🔗 **Forecasting Houston Dynamo FC Game Attendance** – Using Supply Chain Analytics to Forecast Attendance by forecasting models like ARIMA , ETS and Naive Forecasting  | [Code](https://github.com/girirohan36/ForecastingFC_Attendance) | [Medium](https://medium.com/@girirohan36/forecasting-houston-dynamo-fc-game-attendance-7554f3793960)
-
 🔗 **ResumeFit: AI-Powered Job Fit Analysis** – Streamlit-based web application that leverages Google's Gemini AI to assist in resume analysis  | [Code](https://github.com/girirohan36/ResumeFit)
 
-🔗 **Target Insights : Data Models & Governance** – Developed data management pipeline that optimized pricing strategies by integrating transactional data and applying predictive models for real-time price adjustments.  | [Code](https://github.com/girirohan36/Target_DataManagement)
-
-
-
-
+[Projects done in Master's at University of Texas at Austin :](https://github.com/girirohan36/MSBA_UT_Austin) 
