@@ -38,4 +38,8 @@ I’m diving into the intersection of data analysis, advanced machine learning, 
 
 🔗 **ResumeFit: AI-Powered Job Fit Analysis** – Streamlit-based web application that leverages Google's Gemini AI to assist in resume analysis  | [Code](https://github.com/girirohan36/ResumeFit)
 
+🔗 **Target Insights : Data Models & Governance** – Developed data management pipeline that optimized pricing strategies by integrating transactional data and applying predictive models for real-time price adjustments.  | [Code](https://github.com/girirohan36/Target_DataManagement)
+
+
+
 
