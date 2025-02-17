@@ -32,4 +32,4 @@ I’m diving into the intersection of data analysis, advanced machine learning, 
 
 🔗 **ResumeFit: AI-Powered Job Fit Analysis** – Streamlit-based web application that leverages Google's Gemini AI to assist in resume analysis  | [Code](https://github.com/girirohan36/ResumeFit)
 
-[Projects done in Master's at University of Texas at Austin :](https://github.com/girirohan36/MSBA_UT_Austin) 
+Projects done in Master's at University of Texas at Austin : [Analytics Projects](https://github.com/girirohan36/MSBA_UT_Austin) 
