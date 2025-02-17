@@ -15,7 +15,7 @@ I’m diving into the intersection of data analysis, advanced machine learning, 
 - **Languages:** Python, R, SQL
 - **Data:** Power BI, Tableau, MySQL, Apache Spark, GitHub
 - **Tools & Software:** Advanced Excel, SAP HANA, Snowflake, Gurobi
-- **ML & Predictive Analytics:** Segmentation, Classification , Time Series Forecasting , NLP , A/B Testing , RAG, LLM
+- **ML & Predictive Analytics:** Classification , RAG, LLM, A/B Testing , Hypothesis Testing , Time Series Forecasting , NLP  
 
 ###  🏆Patent : [**A Machine Vision Enabled Tactical Scope**](https://www.quickcompany.in/patents/a-machine-vision-enabled-tactical-scope#) 
 
